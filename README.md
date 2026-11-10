@@ -4,6 +4,8 @@
 
 - <b>Advanced monitoring stack</b>
   - [Real-time monitoring system across production servers for an industry-leading European client](https://github.com/RAVI-Akshathan/case-study-advanced-monitoring-stack)
+- <b>Enterprise PC Refresh – Technical Lead</b>
+  - [Large-Scale PC migration - Technical Lead](https://github.com/RAVI-Akshathan/case-study-enterprise-pc-refresh-technical-lead)
 <!--#A completer avec le bon lien#-->
 <h2>💻 Home lab projects:</h2>
 
